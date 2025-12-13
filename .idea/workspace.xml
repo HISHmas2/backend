@@ -59,8 +59,9 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "refactor/#23-object-nonmember",
+    "git-widget-placeholder": "feat/#1-decoration",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/subeen/Downloads/backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -107,6 +108,8 @@
       <workItem from="1763824971634" duration="2121000" />
       <workItem from="1763833543656" duration="2495000" />
       <workItem from="1763898556816" duration="4287000" />
+      <workItem from="1765204692539" duration="5233000" />
+      <workItem from="1765269095520" duration="8070000" />
     </task>
     <servers />
   </component>
