@@ -11,6 +11,8 @@ app.use(cors({
         "http://localhost:3000",   // React 개발 환경
         "http://localhost:8080",
         "http://3.37.68.90",
+        "https://www.hishmas.site",
+        "https://hishmas.site",
     ],
     credentials: true,            // ⭐ 쿠키 허용
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
