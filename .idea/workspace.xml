@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d9a69e4d-944c-4afa-a247-225a5a7e3cda" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/objectController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/objectController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/objectRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/objectRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +57,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feat/#1-decoration",
+    "git-widget-placeholder": "feat/#4-cors",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/Users/subeen/Downloads/backend",
     "node.js.detected.package.eslint": "true",
@@ -83,16 +84,11 @@
     <configuration name="api-docs" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/api-docs">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript 디버그.api-docs" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
       </set>
     </attachedChunks>
   </component>
@@ -108,8 +104,7 @@
       <workItem from="1763824971634" duration="2121000" />
       <workItem from="1763833543656" duration="2495000" />
       <workItem from="1763898556816" duration="4287000" />
-      <workItem from="1765204692539" duration="5233000" />
-      <workItem from="1765269095520" duration="8070000" />
+      <workItem from="1765623346692" duration="4081000" />
     </task>
     <servers />
   </component>

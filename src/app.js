@@ -9,7 +9,8 @@ const { swaggerUi, swaggerSpec } = require("./config/swagger");
 app.use(cors({
     origin: [
         "http://localhost:3000",   // React 개발 환경
-        "http://localhost:8080",   // Swagger
+        "http://localhost:8080",
+        "http://3.37.68.90",
     ],
     credentials: true,            // ⭐ 쿠키 허용
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
